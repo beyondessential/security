@@ -16,13 +16,14 @@ For Tamanu, [use its github security vulnerability disclosure page](https://gith
 
 For all other reports, or if you're not sure, email [security@bes.au](mailto:security@bes.au).
 
-You may also with to consult [our security.txt file](https://bes.au/.well-known/security.txt).
+You may also wish to consult [our security.txt file](https://bes.au/.well-known/security.txt).
 
 # Scope
 
 BES runs a number of test sites. These are out of scope for data breaches and credential compromise.
 
-BES is frequently found when researching systems that we interact with but do not develop. You may be looking for:
+BES is frequently found when researching systems that we interact with but do not develop.
+You may be looking for:
 - [mSupply Foundation](https://msupply.foundation/)
 - [SENAITE](https://www.senaite.com/)
 
