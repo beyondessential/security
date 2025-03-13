@@ -1,3 +1,5 @@
+We appreciate your efforts to responsibly disclose your findings, and will make every effort to acknowledge your contributions.
+
 # Bug bounties
 
 BES does not operate a bug bounty program.
@@ -18,6 +20,9 @@ For all other reports, or if you're not sure, email [security@bes.au](mailto:sec
 
 You may also wish to consult [our security.txt file](https://bes.au/.well-known/security.txt).
 
+The BES security team will send a response indicating the next steps in handling your report.
+After the initial reply to your report, the security team will keep you informed of the progress towards a fix, and may ask for additional information or guidance.
+
 # Scope
 
 BES runs a number of test sites. These are out of scope for data breaches and credential compromise.
@@ -26,6 +31,9 @@ BES is frequently found when researching systems that we interact with but do no
 You may be looking for:
 - [mSupply Foundation](https://msupply.foundation/)
 - [SENAITE](https://www.senaite.com/)
+
+Report security bugs in third-party modules to the person or team maintaining the module.
+For Node.js projects, you can also report a vulnerability through the [npm contact form](https://www.npmjs.com/support) by selecting "I'm reporting a security vulnerability".
 
 # Acknowledgments
 
